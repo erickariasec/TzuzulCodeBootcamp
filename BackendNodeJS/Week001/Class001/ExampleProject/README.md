@@ -16,7 +16,7 @@ Used for running the specific commands for serving the project, to any server, t
 
 ```js
 "scripts": {
-    "dev": "npx nodemon index.js",
+    "dev": "npx nodemon index.js", // npx (node package executor)
     "test": "echo \"Error: no test specified\" && exit 1"
 }
 ```
